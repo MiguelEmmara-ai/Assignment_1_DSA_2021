@@ -1,5 +1,5 @@
 # Assignment 1 DSA 2021
-AUT Assignment 1 Data Structures and Algorithms Semester 1 2021D
+AUT Assignment 1 Data Structures and Algorithms Semester 1 2021
 
 # Download Question (PDF)
 [Download](https://github.com/MiguelEmmara-ai/Assignment_1_DSA_2021/tree/master/Question)
